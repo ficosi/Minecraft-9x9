@@ -1,0 +1,13 @@
+{
+  "name": "Reactor 5x5 full",
+  "statePosArrayList": "{blockstatemap:[{Name:\"bigreactors:basic_reactorcasing\"},{Name:\"bigreactors:basic_reactorglass\",Properties:{facings:\"none\"}},{Name:\"bigreactors:basic_reactorpowertapfe_active\"},{Name:\"bigreactors:basic_reactorfuelrod\",Properties:{axis:\"y\"}},{Name:\"bigreactors:basic_reactorcontrolrod\"},{Name:\"bigreactors:basic_reactorsolidaccessport\"},{Name:\"bigreactors:basic_reactorcontroller\"}],endpos:{X:4,Y:4,Z:0},startpos:{X:0,Y:0,Z:-4},statelist:[I;0,0,0,0,0,0,1,2,1,0,0,1,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,3,3,3,1,1,3,3,3,1,1,3,3,3,1,0,4,4,4,0,0,0,0,0,0,5,3,3,3,5,1,3,3,3,1,1,3,3,3,1,0,4,4,4,0,0,0,0,0,0,1,3,3,3,1,1,3,3,3,1,1,3,3,3,1,0,4,4,4,0,0,0,0,0,0,0,1,6,1,0,0,1,1,1,0,0,1,1,1,0,0,0,0,0,0]}",
+  "requiredItems": {
+    "bigreactors:Reference{ResourceKey[minecraft:item / bigreactors:basic_reactorcontrolrod]\u003dbigreactors:basic_reactorcontrolrod}": 9,
+    "bigreactors:Reference{ResourceKey[minecraft:item / bigreactors:basic_reactorfuelrod]\u003dbigreactors:basic_reactorfuelrod}": 27,
+    "bigreactors:Reference{ResourceKey[minecraft:item / bigreactors:basic_reactorcontroller]\u003dbigreactors:basic_reactorcontroller}": 1,
+    "bigreactors:Reference{ResourceKey[minecraft:item / bigreactors:basic_reactorsolidaccessport]\u003dbigreactors:basic_reactorsolidaccessport}": 2,
+    "bigreactors:Reference{ResourceKey[minecraft:item / bigreactors:basic_reactorglass]\u003dbigreactors:basic_reactorglass}": 32,
+    "bigreactors:Reference{ResourceKey[minecraft:item / bigreactors:basic_reactorcasing]\u003dbigreactors:basic_reactorcasing}": 53,
+    "bigreactors:Reference{ResourceKey[minecraft:item / bigreactors:basic_reactorpowertapfe_active]\u003dbigreactors:basic_reactorpowertapfe_active}": 1
+  }
+}
